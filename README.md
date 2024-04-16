@@ -13,12 +13,12 @@ Welcome to the OIBSIP repository! This repository houses the projects completed 
 *2. Tribute Page to Pawan Kalyan:*
    - A tribute page dedicated to the renowned actor and politician, Pawan Kalyan.
    - Designed with HTML and CSS, providing information about his life, achievements, and contributions.
-   - ![Tribute Page Screenshot](screenshots/Tributepage.mp4)
+   - [Click here to watch the tribute video](https://drive.google.com/file/d/1wSZyDQkISBVrLIOIRKWiICHAFOVSUmHw/view?usp=sharing)
 
 *3. Todo Web App:*
    - A todo list web application developed using HTML, CSS, and JavaScript.
    - Allows users to add, delete, and mark tasks as completed.
-   - ![Todo Web App Screenshot](screenshots/todo_app.png)
+   - ![Todo Web App Screenshot](screenshots/todo.png)
 
 *4. Login Authentication System:*
    - Implementation of a login authentication system using HTML, CSS for frontend, and Python for backend.
